@@ -1,4 +1,4 @@
-import Phaser, { Tilemaps } from 'phaser'
+//import Phaser, { Tilemaps } from 'phaser'
 
 import girl1 from './assets/girl/Girls_calm.png'
 import girl2 from './assets/girl/Girls_sad.png'
