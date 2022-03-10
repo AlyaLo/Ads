@@ -1,9 +1,9 @@
 //import Phaser, { Tilemaps } from 'phaser'
 
-import girl1 from './assets/girl/Girls_calm.png'
-import girl2 from './assets/girl/Girls_sad.png'
-import girl3 from './assets/girl/Girls_shy.png'
-import girl4 from './assets/girl/Girls_joy.png'
+import girl1 from 'assets/girl/Girls_calm.png'
+import girl2 from 'assets/girl/Girls_sad.png'
+import girl3 from 'assets/girl/Girls_shy.png'
+import girl4 from 'assets/girl/Girls_joy.png'
 
 import girlFirstDressDefault from './assets/girl/GirlFirstDressDefault.png'
 import girlFistDressJoy from './assets/girl/GirlFirstDressJoy.png'
